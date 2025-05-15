@@ -1,0 +1,6 @@
+torch==2.2.2
+torchvision==0.17.2
+tqdm==4.66.2
+streamlit==1.37.1
+Pillow==10.3.0
+numpy==1.26.4
