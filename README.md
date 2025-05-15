@@ -89,18 +89,18 @@ Model şu 10 hayvan sınıfını tanımaktadır:
 📷 Resim Yükle → 🧠 Tahmin: **DOG**
 ```
 
-![Yükleme Ekranı](Ekran_goruntusu_2025-05-14_235821.png)
+![Yükleme Ekranı](Ekran görüntüsü 2025-05-14 235821.png)
 
 ---
 
 ### Tahmin Sonucu:
 
-![Tahmin Ekranı](Ekran_goruntusu_2025-05-15_000005.png)
+![Tahmin Ekranı](Ekran görüntüsü 2025-05-15 000005.png)
 ---
 
-### Alt Bölüm Örneği:
+### Yüklenme Ekranı :
 
-![Alt Bölüm](Ekran_goruntusu_2025-05-15_000034.png)
+![Yükleme Ekranı ](Ekran görüntüsü 2025-05-15 000034.png)
 
 ---
 
