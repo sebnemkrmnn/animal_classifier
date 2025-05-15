@@ -1,0 +1,43 @@
+PROJE ADI: Hayvan Sınıflandırıcı Yapay Zeka Modeli
+
+GITHUB REPOSU:
+https://github.com/sebnemkrmnn/animal-classifier
+
+PROJE AÇIKLAMASI:
+Bu proje, görüntü sınıflandırmaya yönelik bir derin öğrenme modelini içerir.
+Kullanıcıdan alınan bir hayvan görseli, eğitilmiş yapay zeka modeli ile analiz
+edilerek doğru hayvan sınıfına atanır.
+
+ANA DOSYALAR:
+- app.py                 : Streamlit tabanlı kullanıcı arayüzü
+- train_model.ipynb      : Modelin eğitildiği Jupyter Notebook dosyası
+- simple_cnn_animals.pth : Eğitilmiş modelin kaydedilmiş hali
+- data_preprocess.ipynb  : Veri hazırlama ve görselleştirme
+- translate.py           : Sınıf etiketlerini yazıya çevirir
+- requirements.txt       : Kullanılan Python kütüphaneleri listesi
+- README.md              : Proje bilgilerini içeren açıklama dosyası
+
+KULLANILAN TEKNOLOJİLER:
+- Python
+- PyTorch
+- Torchvision
+- Streamlit
+- Pillow
+- Jupyter Notebook
+- TQDM
+
+VERİ SETİ:
+- Animals-10 veri seti (Kaggle üzerinden edinilmiştir)
+- Görseller 'raw-img' klasöründe kategorilere göre klasörlenmiştir.
+
+GELİŞTİRİCİ BİLGİLERİ:
+Adı Soyadı  : Şebnem Karaman - 220303035
+Üniversite  : Erzurum Teknik Üniversitesi
+Ders        : Bulut Bilişim ve Yapay Zeka Teknolojileri
+Yıl         : 2025
+
+NOTLAR:
+- Proje eğitim ve sunum amacıyla geliştirilmiştir.
+- Uygulama yerel olarak tarayıcıda çalıştırılır.
+- Streamlit sayesinde ek bir sunucuya ihtiyaç duymaz.
+- Veri ön işleme, model eğitimi ve arayüz çalışmaları ayrı dosyalarda düzenlenmiştir.
