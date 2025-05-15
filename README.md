@@ -88,7 +88,7 @@ Model şu 10 hayvan sınıfını tanımaktadır:
 🐾 Hayvan Sınıflandırıcı AI  
 📷 Resim Yükle → 🧠 Tahmin: **DOG**
 ```
-
+### Yükleme Ekranı :
 ![Yükleme Ekranı](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-15%20000034.png)
 
 
@@ -99,7 +99,7 @@ Model şu 10 hayvan sınıfını tanımaktadır:
 ![Tahmin Ekranı](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-15%20000005.png)
 ---
 
-### Yüklenme Ekranı :
+### Yüklenen Görselin Önizlemesi :
 
 ![Yükleme Ekranı ](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-15%20000034.png)
 
